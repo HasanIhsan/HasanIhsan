@@ -8,4 +8,24 @@
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/hassan-ihsan-045b11231/" target="_blank" rel="noopener noreferrer">Hassan Ihsan</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit more about me...  
+ 
+ ```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    ProgrammingLans: ["Java", "C/C++", "Javascript"],
+     frontEndDev: {
+            web: ["HTML5", "CSS"]
+        },
+        SoftwareAndTool: ["Git", "github", "GoogleSheets", "stackOverflow", "geeksforgeeks"],
+        IDES: ["Visual Studio Code", "JetBrains", "Visual Studio", "Eclipse Ide"],
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["MySql", "sqlite"],
+        OS: ["Linux", "Ubuntu", "windows"]
+    },
+    currentProject: "I am simply adding more projects to GitHub",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+ 
  
