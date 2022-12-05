@@ -11,7 +11,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit more about me...  
  
  ```javascript
-const anmol = {
+const HasanIhsan = {
     pronouns: "He" | "Him",
     ProgrammingLans: ["Java", "C", "C++", "Javascript", "HTML5", "CSS", "JSON"],
         SoftwareAndTool: ["Git", "github", "GoogleSheets", "stackOverflow", "geeksforgeeks"],
