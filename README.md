@@ -39,7 +39,7 @@ const HasanIhsan = {
  > 
 > 🔑 2 Private Repositories (Just some random code from online that I use frequently)
 
- [![Hassan Ihsan github stats](https://github-readme-stats.hasanihsan.vercel.app/api?username=HasanIhsan&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/HasanIhsan?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.hasanihsan.vercel.app/api/top-langs/?username=HasanIhsan&layout=compact&langs_count=6&theme=blue-green)](https://github.com/HasanIhsan)
+[![Hassan Ihsan github stats](https://github-readme-stats.hasanihsan.vercel.app/api?username=HasanIhsan&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/HasanIhsan?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.hasanihsan.vercel.app/api/top-langs/?username=HasanIhsan&layout=compact&langs_count=6&theme=blue-green)](https://github.com/HasanIhsan)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
