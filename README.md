@@ -39,22 +39,7 @@ const anmol = {
  > 
 > 🔑 2 Private Repositories (Just some random code from online that I use frequently)
  
- name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_69eb4475-112b-4f67-9cca-aae95ea8003b }}
-          GH_TOKEN: ${{ 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}}
+ 
  
 <!--END_SECTION:waka-->
  
