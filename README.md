@@ -38,9 +38,8 @@ const HasanIhsan = {
 > 📜 25 Public Repositories
  > 
 > 🔑 2 Private Repositories (Just some random code from online that I use frequently)
- 
- 
- <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
  
  
