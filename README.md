@@ -39,8 +39,13 @@ const HasanIhsan = {
  > 
 > 🔑 2 Private Repositories (Just some random code from online that I use frequently)
 
+ <p>
+    <details>
+     <summary><strong>Github Stats</strong></summary>
 ![Hassan GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanIhsan&hide=contribs,prs&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanIhsan&layout=compact&theme=transparent)](https://github.com/HasanIhsan/github-readme-stats)
+      </details>
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
