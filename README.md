@@ -14,13 +14,14 @@
 const HasanIhsan = {
     pronouns: "He" | "Him",
     ProgrammingLans: ["Java", "C", "C++", "Javascript", "HTML5", "CSS", "JSON"],
-        SoftwareAndTool: ["Git", "github", "GoogleSheets", "stackOverflow", "geeksforgeeks"],
-        IDES: ["Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide"],
+        SoftwareAndTool: ["Oracle VM","Git", "github", "GoogleSheets", "stackOverflow", "geeksforgeeks"],
+        IDES: ["Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
         devOps: ["AWS", "Docker🐳"],
         databases: ["MySql", "sqlite"],
         OS: ["Kali Linux", "Ubuntu", "windows"]
     },
-    currentProject: "I am simply adding more projects to GitHub",
+    ThisToBeAware: ["obviously i'm not amazing at all langs, but I try my best not to go rusty"],
+    currentProject: "I am simply adding more projects to GitHub and trying to learn docker",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
