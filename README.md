@@ -27,10 +27,34 @@ const anmol = {
  
  ---
 <!--START_SECTION:waka-->
-![Profile Views](https://komarev.com/ghpvc/?username=HasanIhsan&style=flat-square&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=HasanIhsan&style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue) -->
  
+ **🐱 My Github Data** 
  
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories
+ > 
+> 🔑 2 Private Repositories (Just some random code from online that I use frequently)
  
+ name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ waka_69eb4475-112b-4f67-9cca-aae95ea8003b }}
+          GH_TOKEN: ${{ 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}}
+ 
+<!--END_SECTION:waka-->
  
