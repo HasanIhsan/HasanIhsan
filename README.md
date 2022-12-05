@@ -39,7 +39,7 @@ const HasanIhsan = {
  > 
 > 🔑 2 Private Repositories (Just some random code from online that I use frequently)
 
-![Hassan GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanIhsan&hide=contribs,prs&show_icons=true&theme=codeSTACKr)
+![Hassan GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanIhsan&hide=contribs,prs&show_icons=true&theme=codeSTACKr&bg_color=00000000)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
