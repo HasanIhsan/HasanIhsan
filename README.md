@@ -13,7 +13,7 @@
  ```javascript
 const HasanIhsan = {
     pronouns: "He" | "Him",
-    ProgrammingLans: ["Java", "C", "C++", "C#", "Javascript", "HTML5", "CSS", "JSON"],
+    ProgrammingLans: [ "C", "C++", "C#", "Javascript", "HTML5/CSS", "JSON", "Java"],
         SoftwareAndTool: ["Oracle VM","Git", "github","stackOverflow", "geeksforgeeks"],
         IDES: ["Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
         devOps: ["AWS(Learning)", "Docker🐳(Learning)"],
@@ -49,7 +49,7 @@ const HasanIhsan = {
       </details>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:SHOW_COMMIT-->
  
  
