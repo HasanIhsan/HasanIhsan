@@ -48,7 +48,9 @@ const HasanIhsan = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanIhsan&layout=compact&theme=transparent)](https://github.com/HasanIhsan/github-readme-stats)
       </details>
 </p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
  
  
