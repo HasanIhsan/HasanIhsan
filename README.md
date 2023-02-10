@@ -53,9 +53,9 @@ const HasanIhsan = {
 <!--START_SECTION:waka-->
 
 ```text
-C#           11 hrs 27 mins  ███████████████░░░░░░░░░░   60.04 %
-JavaScript   5 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Other        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+C#           9 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.75 %
+JavaScript   5 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+Other        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
