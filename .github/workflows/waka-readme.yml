@@ -15,10 +15,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROFILE_VIEW: false
-          SHOW_LINES_OF_CODE: false
-          SHOW_OS: false
-          SHOW_PROJECTS: false
-          SHOW_LANGUAGE_PER_REP: false
-          SYMBOL_VERSION: false
+          SHOW_PROFILE_VIEW: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE_PER_REP: "False"
+          SYMBOL_VERSION: "False"
           
