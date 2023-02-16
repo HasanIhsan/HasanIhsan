@@ -28,19 +28,7 @@ const HasanIhsan = {
  
  ---
  
-![Profile Views](https://komarev.com/ghpvc/?username=HasanIhsan&style=flat-square)
-
-<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue) -->
  
- **🐱 My Github Data** 
- 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories
- > 
-> 🔑 2 Private Repositories (Just some random code from online that I use frequently)
-
- <p>
     <details>
      <summary><strong>Github Stats</strong></summary>
      
