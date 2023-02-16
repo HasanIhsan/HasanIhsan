@@ -13,15 +13,13 @@
  ```javascript
 const HasanIhsan = {
     pronouns: "He" | "Him",
-    ProgrammingLans: [ "C", "C++", "C#", "Javascript", "HTML5/CSS", "JSON", "Java"],
-        SoftwareAndTool: ["Oracle VM","Git", "github","stackOverflow", "geeksforgeeks"],
-        IDES: ["Visual Studio Code", "Visual Studio", "JetBrains", "Eclipse Ide", "Notepad++"],
-        devOps: ["AWS(Learning)", "Docker🐳(Learning)"],
-        databases: ["MySql"],
+    ProgrammingLans: [ "C |  C++ | C#", "Javascript | React", "HTML5/CSS", "JSON", "Java"],
+        SoftwareAndTool: ["Oracle VM", "Git"],
+        IDES: ["Visual Studio Code", "Visual Studio", "Notepad++"],
+        devOps: ["AWS(Learning)", "Docker🐳(Learning)"], 
         OS: ["Kali Linux", "windows"]
     },
-    ThisToBeAware: ["obviously I'm not amazing at all langs, but I try my best not to go rusty"],
-    currentProject: "I am simply adding more projects to GitHub and trying to learn docker",
+    ThisToBeAware: ["obviously I'm not amazing at all langs, but I try my best not to go rusty"], 
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
