@@ -53,12 +53,14 @@ const HasanIhsan = {
 <!--START_SECTION:waka-->
 
 ```text
-C#           8 hrs 3 mins    ██████████████░░░░░░░░░░░   56.36 %
-JavaScript   4 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.59 %
-Binary       1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+From: 04 December 2022 - To: 16 February 2023
+
+Total Time: 80 hrs 19 mins
+
+C#           36 hrs 29 mins  >>>>>>>>>>>--------------   45.42 %
+JavaScript   34 hrs 53 mins  >>>>>>>>>>>--------------   43.44 %
+HTML         2 hrs 42 mins   >------------------------   03.36 %
+Other        1 hr 57 mins    >------------------------   02.44 %
 ```
 
 <!--END_SECTION:waka-->
