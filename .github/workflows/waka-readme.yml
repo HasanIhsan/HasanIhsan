@@ -20,6 +20,6 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SYMBOL_VERSION: "False"
+          SYMBOL_VERSION: 1
           SHOW_LOC_CHART: "False"
           
