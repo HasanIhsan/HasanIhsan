@@ -27,7 +27,7 @@ const HasanIhsan = {
  --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -80,7 +80,7 @@ Visual Studio            2 hrs 10 mins       █████░░░░░░�
 ```
 
 
- Last Updated on 05/03/2023 01:26:29 UTC
+ Last Updated on 06/03/2023 01:17:09 UTC
 <!--END_SECTION:waka-->
  
  
