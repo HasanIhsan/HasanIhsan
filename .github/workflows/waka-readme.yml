@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every week
-    - cron: "0 */730 * * *"
+    - cron: "0 */168 * * *"
 
 jobs:
   update-readme:
