@@ -33,7 +33,7 @@ const HasanIhsan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 108.2 kB Used in GitHub's Storage 
+> 📦 114.4 kB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2023
  > 
@@ -70,14 +70,15 @@ Sunday                   59 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   31 mins             █████████████████████████   99.63 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2023 01:41:08 UTC
+ Last Updated on 08/06/2023 01:28:03 UTC
 <!--END_SECTION:waka-->
  
  
