@@ -16,7 +16,7 @@ const HasanIhsan = {
     ProgrammingLans: [ "C |  C++ | C#", "Javascript | React", "HTML5/CSS", "JSON", "Java"],
         SoftwareAndTool: ["Oracle VM", "Git"],
         IDES: ["Visual Studio Code", "Visual Studio", "Notepad++"],
-        devOps: ["AWS(Learning)", "Docker🐳(Learning)"], 
+        devOps: ["Docker🐳(Learning)"], 
         OS: ["Kali Linux", "windows"]
     },
     ThisToBeAware: ["obviously I'm not amazing at all langs, but I try my best not to go rusty"], 
