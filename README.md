@@ -27,7 +27,7 @@ const HasanIhsan = {
  --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -70,16 +70,16 @@ Sunday                   72 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-C#                       1 hr 12 mins        ██████████████████░░░░░░░   72.98 % 
-Binary                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-XAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C#                       2 hrs 7 mins        ████████████████░░░░░░░░░   62.58 % 
+Binary                   49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+XAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 39 mins        █████████████████████████   100.00 % 
+Visual Studio            3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2023 01:09:22 UTC
+ Last Updated on 13/12/2023 01:09:01 UTC
 <!--END_SECTION:waka-->
  
  
