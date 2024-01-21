@@ -70,16 +70,14 @@ Sunday                   73 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               38 mins             ███████████████░░░░░░░░░░   60.92 % 
-Markdown                 23 mins             █████████░░░░░░░░░░░░░░░░   37.56 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/01/2024 01:08:55 UTC
+ Last Updated on 21/01/2024 01:14:56 UTC
 <!--END_SECTION:waka-->
  
  
