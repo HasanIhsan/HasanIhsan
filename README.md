@@ -27,8 +27,6 @@ const HasanIhsan = {
  --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2013%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -70,17 +68,14 @@ Sunday                   73 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               2 hrs 3 mins        ██████████████████░░░░░░░   70.08 % 
-HTML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-CSS                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/01/2024 00:51:19 UTC
+ Last Updated on 04/02/2024 00:52:09 UTC
 <!--END_SECTION:waka-->
  
  
