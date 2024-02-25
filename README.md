@@ -68,16 +68,14 @@ Sunday                   75 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-C#                       46 mins             ██████████████░░░░░░░░░░░   55.32 % 
-Binary                   35 mins             ███████████░░░░░░░░░░░░░░   42.29 % 
-XAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 24 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/02/2024 00:51:19 UTC
+ Last Updated on 25/02/2024 00:51:34 UTC
 <!--END_SECTION:waka-->
  
  
