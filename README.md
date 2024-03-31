@@ -33,8 +33,6 @@ const HasanIhsan = {
 
 > 📦 182.3 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -68,16 +66,14 @@ Sunday                   75 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-C#                       40 mins             ████████████████░░░░░░░░░   65.53 % 
-Binary                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-XAML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/03/2024 00:53:25 UTC
+ Last Updated on 31/03/2024 00:53:27 UTC
 <!--END_SECTION:waka-->
  
  
