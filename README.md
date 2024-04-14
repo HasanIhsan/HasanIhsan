@@ -66,14 +66,16 @@ Sunday                   75 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     15 mins             ████████████████████████░   97.80 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2024 00:53:34 UTC
+ Last Updated on 14/04/2024 01:06:02 UTC
 <!--END_SECTION:waka-->
  
  
