@@ -20,7 +20,7 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_OS: false
           SHOW_PROJECTS: false
-          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LANGUAGE_PER_REPO: true
           SYMBOL_VERSION: 1
           SHOW_LOC_CHART: false
           SHOW_TOTAL_CODE_TIME: false
