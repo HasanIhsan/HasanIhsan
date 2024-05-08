@@ -28,6 +28,7 @@ jobs:
           SHOW_EDITORS: false
           SHOW_LANGUAGE: false
           SHOW_SHORT_INFO: true
+          SHOW_TIMEZONE: false
            
           
           
