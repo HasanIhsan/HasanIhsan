@@ -6,7 +6,6 @@ on:
     # Runs every week
     - cron: "0 0 * * 0"
 
-
 jobs:
   update-readme:
     name: Update this repo's README
@@ -18,12 +17,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          BLOCKS: "░▒▓█" # Use a single block character to disable the graph
+          TIME_RANGE: all_time # Display all-time stats
+          LANG_COUNT: 10 # Display 10 languages
+          SHOW_TIME: false # Hide time spent for each language
+          SHOW_TOTAL: false # Hide total coding time
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          
+          STOP_AT_OTHER: false # optional
