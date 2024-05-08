@@ -21,7 +21,8 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_TOTAL: "True" # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
           SYMBOL_VERSION: 1
           SHOW_LOC_CHART: "False"
           
