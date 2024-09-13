@@ -13,7 +13,7 @@
  ```javascript
 const HasanIhsan = {
     pronouns: "He" | "Him",
-    ProgrammingLans: [ "C |  C++ | C#", "Javascript | React", "HTML5/CSS", "JSON", "Java"],
+    ProgrammingLans: [ "C#", "Javascript | React", "HTML5/CSS", "JSON", "Java"],
         SoftwareAndTool: ["Oracle VM", "Git"],
         IDES: ["Visual Studio Code", "Visual Studio", "Notepad++"],
         devOps: ["Docker🐳(Learning)"], 
