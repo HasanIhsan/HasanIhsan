@@ -13,9 +13,9 @@
  ```javascript
 const HasanIhsan = {
     pronouns: "He" | "Him",
-    ProgrammingLans: [ "C#", "Javascript | React", "HTML5/CSS", "JSON", "Java"],
+    ProgrammingLans: [ "Python", "C#", "Javascript | React", "HTML5/CSS", "JSON", "Java"],
         SoftwareAndTool: ["Oracle VM", "Git"],
-        IDES: ["Visual Studio Code", "Visual Studio", "Notepad++"],
+        IDES: ["Visual Studio Code", "Visual Studio", "Notepad++", "Obsidian"],
         devOps: ["Docker🐳(Learning)"], 
         OS: ["Kali Linux", "windows"]
     },
