@@ -27,13 +27,13 @@ const HasanIhsan = {
  --- 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.21%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 431.8 kB Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,27 +41,6 @@ const HasanIhsan = {
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-🌆 Daytime                470 commits         ███████████░░░░░░░░░░░░░░   44.05 % 
-🌃 Evening                440 commits         ██████████░░░░░░░░░░░░░░░   41.24 % 
-🌙 Night                  63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Friday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Sunday                   164 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-```
-
-
 **I Mostly Code in Python** 
 
 ```text
@@ -75,7 +54,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2025 01:41:31 UTC
+ Last Updated on 04/01/2026 01:42:44 UTC
 <!--END_SECTION:waka-->
  
  
